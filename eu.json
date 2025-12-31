@@ -1,14 +1,14 @@
 {
   "overall": [
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/0.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/3.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/4.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/0.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/3.png", "wins": 0, "losses": 0 },
-    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/4.png", "wins": 0, "losses": 0 }
+    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 0, "losses": 0, "discord": "https://discord.com/invite/xxxx" },
+    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png", "wins": 0, "losses": 0, "discord": "https://discord.com/invite/xxxx" },
+    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/3.png", "wins": 0, "losses": 0, "discord": "https://discord.com/invite/xxxx" },
+    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/4.png", "wins": 0, "losses": 0, "discord": "https://discord.com/invite/xxxx" },
+    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/0.png", "wins": 0, "losses": 0, "discord": "https://discord.com/invite/xxxx" },
+    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/1.png", "wins": 0, "losses": 0, "discord": "https://discord.com/invite/xxxx" },
+    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/2.png", "wins": 0, "losses": 0, "discord": "https://discord.com/invite/xxxx" },
+    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/3.png", "wins": 0, "losses": 0, "discord": "https://discord.com/invite/xxxx" },
+    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/4.png", "wins": 0, "losses": 0, "discord": "https://discord.com/invite/xxxx" },
+    { "name": "?", "avatar": "https://cdn.discordapp.com/embed/avatars/0.png", "wins": 0, "losses": 0, "discord": "https://discord.com/invite/xxxx" }
   ]
 }
